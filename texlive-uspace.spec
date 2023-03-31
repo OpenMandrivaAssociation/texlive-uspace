@@ -1,6 +1,6 @@
 Name:		texlive-uspace
 Version:	63123
-Release:	1
+Release:	2
 Summary:	Giving meaning to various Unicode space characters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uspace
