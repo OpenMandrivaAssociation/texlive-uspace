@@ -3,7 +3,7 @@ Version:	63123
 Release:	2
 Summary:	Giving meaning to various Unicode space characters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uspace
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uspace
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uspace.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uspace.doc.r%{version}.tar.xz
